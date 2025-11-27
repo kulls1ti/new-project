@@ -1,0 +1,111 @@
+.mein{
+  width:100%;
+  height:100%;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  display: flex;
+  
+
+}
+.n1{
+  width:60%;
+  height:6%;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  margin-left: 2%;
+ margin-top: 2%;
+ position: fixed;
+ border-top-left-radius: 20px;
+ border-top-right-radius: 20px;
+ border-bottom-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+}
+.n0{
+  width:100%;
+  height:100%;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  background-image: url(https://lifehacker.ru/wp-content/uploads/2017/03/bluesky_1488891825.jpg);
+}
+.mein2{
+  width:100%;
+  height:100%;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+  justify-content:start;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+  body{
+    margin: 0 auto;
+  }
+  .logo{
+ display: flex;
+ justify-content: center;
+ align-items: end;
+    width: 50%;
+    height:50%;
+
+  }
+  .log{
+    width: 20%;
+    height:40%;
+
+  }
+  .info{
+font-size:  20px;
+
+
+  }
+  .in{
+    width:70%;
+    height:50%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid black;
+  
+  }
+  .info2{
+    font-size:  50px;
+    text-align:left
+    
+      }
+      .in2{
+        width:70%;
+        height:13%;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid black;
+      
+      }
+      .gor1{
+        width:20%;
+        height:50%;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid black;
+margin-right: 46%;
+margin-top:  20px;
+border-top-left-radius: 20px;
+ border-top-right-radius: 20px;
+ border-bottom-left-radius: 20px;
+ border-bottom-right-radius: 20px;
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-image: url(https://novosibirsk.oboitd.ru/images/goods/big/20200123101813_Belye_oblaka_na_golubom_nebe_7-037.jpg);
+ align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.foto{
+  width:60%;
+  height:50%;
+  background-color: rgb(255, 255, 255);
+  border: 1px solid black;
+
+}
+      
